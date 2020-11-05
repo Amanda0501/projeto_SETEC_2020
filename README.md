@@ -4,4 +4,4 @@ Neste projeto iremos falar sobre as leis de Newton, juntamente com a atividade r
 
 ## Professora coordenadora do projeto:
 
-*Talita
+* Talita
