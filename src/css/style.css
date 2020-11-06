@@ -2,10 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
 
 html {
-  background: rgb(230, 185, 41);
+  background: rgb(97, 77, 161);
 }
 
 body {
@@ -21,9 +22,27 @@ header {
 }
 
 header hgroup {
+  font-size: 18px;
   text-align: center;
 }
 
 header #imagemLogo {
   width: 100px;
+}
+
+#nomes {
+  margin-top: 15px;
+  text-align: center;
+}
+
+#nomes ul li {
+  font-size: 1.1em;
+  display: inline;
+  padding: 0 8px 0 8px;
+  margin: 0 8px 0 8px;
+}
+
+#nomes ul .aluno:hover {
+  cursor: pointer;
+  color: #DED;
 }
